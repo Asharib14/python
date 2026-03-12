@@ -1,0 +1,7 @@
+A = input ("Enter a word: ")
+for i in A:
+  if (i == 'A'):
+    print ("A is found")
+    break
+  else:
+    print ("A is not found")
